@@ -1,74 +1,65 @@
-<h1 align="center" style="font-family:serif;">🈶 Vaibhav Shewale | 若武者 • Ronin of Data</h1>
+<!-- MODERN SAMURAI-THEMED GITHUB README (ENGLISH) -->
+
+<h1 align="center">👋 Hi, I'm Vaibhav Shewale</h1>
+<h3 align="center">Data Science Warrior | AI & Data Science Undergrad | Python Enthusiast</h3>
 
 <p align="center">
-  <i>"A warrior walks the path of code with no fear."</i>
+  <img src="https://raw.githubusercontent.com/vaibhavsss/vaibhavsss/main/assets/bushido-banner.png" width="90%" alt="Bushido Banner">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=21&duration=3000&color=3B82F6&center=true&vCenter=true&multiline=true&lines=AI+%26+Data+Science+Ronin;Living+by+the+Code.;Learning+Always.;Creating+Bold+Solutions." alt="Typing SVG" />
-</p>
-
----
-
-### 🧬 Who am I?
-
-> A data warrior sharpening my skills daily in the dojo of Machine Learning, Deep Learning, and Big Data.
-
-- 🎓 Bachelor's student in **AI & Data Science**
-- 🧠 Interests: Data Analysis, AI/ML Models, Kaggle Challenges
-- 🛠️ Tools of choice: `Python`, `R`, `TensorFlow`, `Scikit-learn`
-- 🛡️ Belief: Code is my katana. Precision, my goal.
-
----
-
-### 🔥 Current Quests
-
-- Building a **Data Science portfolio**
-- Participating in open-source repos & competitions
-- Practicing **LeetCode**, **Kaggle**, and model deployments
-- Preparing for internship trials of 2025
-
----
-
-### 🎯 2025 Goals
-
-- Complete `#100DaysOfMLCode`
-- Publish 10+ AI projects with proper EDA, Modeling & Deployment
-- Learn advanced `R`, `SQL`, `Docker`, and `TensorFlow`
-
----
-
-### 🧰 My Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,java,js,git,github,mysql,mongodb,tensorflow,docker,vscode&perline=8" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Mastering+the+Art+of+Data;Walking+the+Path+of+Code+and+Clarity;Fighting+Bugs+like+a+Samurai;AI+is+my+Dojo&center=true&width=600&height=45">
 </p>
 
 ---
 
-### 🌐 Find Me in the Digital Dojo
+## ⚔️ My Current Mission
+
+- 🔭 Working on: **Data Science Job Trend Analysis using R**
+- 🌱 Sharpening skills in: **Advanced Python, NLP Pipelines, Big Data**
+- 📫 Reach me: [LinkedIn](www.linkedin.com/in/vaibhav-shewale01) | [Twitter](https://x.com/VladNoxAeterna)
+
+---
+
+## 🛠️ Tools in My Arsenal
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vaibhav-shewale01/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,r,java,html,css,bootstrap,vscode,git,github,linux,postgresql" />
+</p>
+
+---
+
+## 🎯 Training Grounds (Competitive Programming)
+
+<p align="center">
+  <a href="https://www.hackerrank.com/vaibhavshewale">
+    <img src="https://img.shields.io/badge/HackerRank-2%20⭐-green?style=for-the-badge&logo=hackerrank" />
   </a>
-  <a href="https://x.com/VladNoxAeterna" target="_blank">
-    <img src="https://img.shields.io/badge/X-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+  <a href="https://leetcode.com/yourusername">
+    <img src="https://img.shields.io/badge/LeetCode-Active-orange?style=for-the-badge&logo=leetcode" />
   </a>
 </p>
 
 ---
 
-### 🧠 Ask Me About
+## 📊 GitHub Dojo Stats
 
-- 🧪 Machine Learning Workflows
-- 📊 EDA and Data Visualization
-- 🐍 Python tricks
-- 🗺️ Navigating your Data Science path
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VaibhavShewale&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VaibhavShewale&theme=radical" width="45%" />
+</p>
 
 ---
 
-### 👁️ Visitor Count
+## 🧠 Languages I’ve Mastered (and Counting...)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavShewale&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 👣 Visitor Count (Footsteps in the Code Path)
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/vaibhavsss/count.svg" alt="Visitor Count" />
@@ -76,30 +67,19 @@
 
 ---
 
-### 🔗 Featured Projects
-
-<a href="https://github.com/vaibhavsss/AI-Project-Repo">
-  <img align="left" width="420" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vaibhavsss&repo=AI-Project-Repo&theme=tokyonight&hide_border=false" />
-</a>
-<a href="https://github.com/vaibhavsss/Data-Science-Kit">
-  <img align="right" width="420" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vaibhavsss&repo=Data-Science-Kit&theme=tokyonight&hide_border=false" />
-</a>
-
-<br/><br/><br/><br/><br/><br/><br/><br/>
-
-<a href="https://github.com/vaibhavsss/Churn-Prediction">
-  <img align="center" width="420" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vaibhavsss&repo=Churn-Prediction&theme=tokyonight&hide_border=false" />
-</a>
-
----
-
-### ⚔️ Parting Words
-
-> “The way of the Samurai is found in death. When it comes to either/or, there is only the quick death. It is not particularly difficult. Be determined and advance.”  
-> — Yamamoto Tsunetomo, *Hagakure*
-
----
+## 🎌 Inspired by the Way of the Samurai
 
 <p align="center">
-  <img src="https://i.imgur.com/oUdt3Wz.gif" width="400" />
+  <img src="https://media.giphy.com/media/3o85xscgnCWS8CzU8Y/giphy.gif" width="300" alt="Samurai with Katana">
+  <img src="https://media.giphy.com/media/4ilFRqgbzbx4c/giphy.gif" width="300" alt="Focused Ronin">
 </p>
+
+---
+
+## 💬 Final Words
+
+> "Code like a warrior. Think like a strategist. Improve like a student."  
+> — *Vaibhav Shewale*
+
+---
+
