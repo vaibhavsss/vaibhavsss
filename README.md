@@ -1,81 +1,79 @@
-<!--💬 Animated Typing Greeting -->
+<!-- Hero Banner -->
 <p align="center">
-  <a href="https://github.com/vaibhavsss">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Namaste+🙏+I'm+Vaibhav+Shewale;AI+%26+Data+Science+Enthusiast;Lifelong+Learner+%26+Tech+Explorer" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Vaibhav%20Shewale&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3b82f6&center=true&vCenter=true&multiline=true&width=700&lines=AI+%26+Data+Science+Enthusiast;Bachelor's+Student+in+AI+%26+DS;Building+smart+things+with+code;Lifelong+learner+and+curious+mind" />
 </p>
 
 ---
 
-<!--🌐 Social Media -->
+<!-- Social Media -->
 <p align="center">
   <a href="https://www.linkedin.com/in/vaibhav-shewale01/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://x.com/VladNoxAeterna" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="X (Twitter)" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 👋 About Me
+### 🙋‍♂️ About Me
 
-- 🎓 Bachelor's student in **AI & Data Science**  
-- 🤖 Exploring the depths of **ML, NLP, Deep Learning & Big Data**  
-- 💡 Always building, failing, learning, and repeating  
-- ✨ Currently working on real-world AI use cases and dashboards  
-
----
-
-### 🚀 2025 Goals
-
-- ✅ Complete #100DaysOfCode focused on AI & DS  
-- 🚀 Deploy 10+ Data/ML projects  
-- 🌐 Contribute to Open Source + Kaggle  
-- 🧠 Master **Python, R, TensorFlow, Spark**
+- 🎓 Pursuing Bachelor's in **AI & Data Science**  
+- 🧠 Passionate about **ML, DL, Big Data, and NLP**  
+- 💼 Currently working on projects in AI/ML + building personal portfolio  
+- 🚀 Interested in research, hackathons & building smart real-world solutions  
 
 ---
 
-### 🛠️ Tech Stack
+### 🎯 2025 Mission
+
+- 🔁 Complete **#100DaysOfCode (AI/ML focused)**  
+- 🛠️ Deploy **10+ AI-powered web apps**  
+- 👨‍💻 Land a top-tier **AI/Data internship**  
+- 📚 Grow strong in **TensorFlow, R, Python & Spark**
+
+---
+
+### 🛠️ Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,java,js,tensorflow,mysql,mongodb,git,github,docker" />
+  <img src="https://skillicons.dev/icons?i=python,r,tensorflow,pytorch,java,mysql,mongodb,git,github,docker" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaibhavsss&show_icons=true&theme=tokyonight&rank_icon=github" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavsss&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vaibhavsss&show_icons=true&theme=react&rank_icon=github" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavsss&theme=react" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavsss&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavsss&layout=compact&theme=react" />
 </p>
 
 ---
 
-### 🔥 Projects I'm Proud Of
+### 🔥 Highlighted Repositories
 
 <p align="center">
   <a href="https://github.com/vaibhavsss/AI-Project-Repo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavsss&repo=AI-Project-Repo&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavsss&repo=AI-Project-Repo&theme=react" />
   </a>
   <a href="https://github.com/vaibhavsss/Data-Science-Kit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavsss&repo=Data-Science-Kit&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/vaibhavsss/Churn-Prediction">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavsss&repo=Churn-Prediction&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavsss&repo=Data-Science-Kit&theme=react" />
   </a>
 </p>
 
 ---
 
-### 📈 Visitor Count
+### 👁️ Visitor Count
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/vaibhavsss/count.svg" />
@@ -83,15 +81,19 @@
 
 ---
 
-### ⚡ Fun Fact
+### ⚡ Fun Developer Formula
 
-> 30% code + 40% StackOverflow + 15% Google + 10% ChatGPT + 5% intuition = Me
+> **30% Code + 40% StackOverflow + 20% Google + 10% Trial & Error = 🔥 MAGIC!**
 
 ---
 
-### 🥷 Samurai Quote
+### 🥷 Samurai Closing Line
 
 > “The way of the Samurai is found in death. When it comes to either/or, there is only the quick death. It is not particularly difficult. Be determined and advance.”  
 > — *Yamamoto Tsunetomo*
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
+</p>
