@@ -1,16 +1,63 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Vaibhav Shewale</h1>
+<h3 align="center">Aspiring Data Scientist | AI & Data Science Undergrad | Pythonista</h3>
 
-<!--
-**vaibhavsss/vaibhavsss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate+about+AI+%26+DS;Lifelong+Learner;Open+Source+Contributor;HackerRank+Python+Champion&center=true&width=500&height=50">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 My Portfolio
+
+- 🔭 I’m currently working on **Data Science Job Trend Analysis using R**
+- 🌱 Exploring **Advanced Python, NLP Pipelines, and Big Data**
+- 📫 Reach me: **[LinkedIn](https://linkedin.com/in/vaibhavshewale)** | **[Twitter](https://twitter.com/vaibhav_ai_ds)**
+
+---
+
+## 🛠️ Languages and Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,java,html,css,bootstrap,vscode,git,github,linux,postgresql" />
+</p>
+
+---
+
+## 💻 Competitive Programming
+
+<p align="center">
+  <a href="https://www.hackerrank.com/vaibhavshewale">
+    <img src="https://img.shields.io/badge/HackerRank-2%20⭐-green?style=for-the-badge&logo=hackerrank" />
+  </a>
+  <a href="https://leetcode.com/yourusername">
+    <img src="https://img.shields.io/badge/LeetCode-Active-orange?style=for-the-badge&logo=leetcode" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VaibhavShewale&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VaibhavShewale&theme=radical" width="45%" />
+</p>
+
+---
+
+## 🔥 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavShewale&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Visitor Count
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VaibhavShewale&style=for-the-badge" />
+</p>
+
+---
+
