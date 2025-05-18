@@ -1,8 +1,8 @@
-<h1 align="center">Namaste! I am Vaibhav Shewale</h1>
-<h3 align="center">Aspiring Data Scientist | AI & Data Science Undergrad | Pythonista</h3>
+<h1 align="center">🙏 Namaste! I'm Vaibhav Shewale</h1>
+<h3 align="center">Aspiring Data Scientist | AI & Data Science Undergrad | Pythonista 🐍</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate+about+AI+%26+DS;Lifelong+Learner;Open+Source+Contributor;HackerRank+Python+Champion&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Passionate+about+AI+%26+DS;Lifelong+Learner;Open+Source+Contributor;HackerRank+Python+Champion" alt="Typing SVG" />
 </p>
 
 ---
