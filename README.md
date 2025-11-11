@@ -21,6 +21,18 @@
 
 ---
 
+### ⚙️ Current Project
+
+#### **Decentralized NFT Rental Marketplace**
+A blockchain-powered platform designed to enable secure and transparent **NFT rentals** without transferring ownership.  
+Built using **Solidity**, **Redis**, and **MetaMask**, it leverages smart contracts to facilitate short-term digital asset usage — providing creators and collectors a new way to monetize and interact with NFTs.  
+Currently focusing on:
+- Designing rental smart contracts for time-bound ownership  
+- Integrating MetaMask for user authentication  
+- Using Redis for session caching and faster transaction data retrieval  
+
+---
+
 ### 🎖 Certifications
 
 - **Python for Data Science** – IBM  
@@ -40,15 +52,6 @@
 ### 🪶 Holopin Badges
 
 [![An image of @vaibhavsss's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vaibhavsss)](https://holopin.io/@vaibhavsss)
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaibhavsss&show_icons=true&hide_border=true&theme=transparent" height="150">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vaibhavsss&theme=transparent&hide_border=true" height="150">
-</p>
 
 ---
 
