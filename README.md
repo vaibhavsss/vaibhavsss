@@ -45,7 +45,7 @@ Currently focusing on:
 
 | Languages | Libraries & Tools | Environment |
 |------------|-------------------|--------------|
-| Python, R | Pandas, NumPy, Scikit-Learn | Git, VS Code |
+| Python, R, Java | Pandas, NumPy, Scikit-Learn | Git, VS Code |
 
 ---
 
